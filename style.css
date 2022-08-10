@@ -1,0 +1,29 @@
+.araba-alani {
+  display:flex;
+  justify-content: center;
+  margin-top:2rem;
+}
+
+.araba-iskelet {
+  width:100px;
+  height:50px;
+  position:absolute;
+  background-color:black;
+}
+
+.teker1{
+  width:50px;
+  height:50px;
+  background-color:red;
+  border-radius:50px;
+  margin-top:2rem;
+}
+
+.teker2{
+  width:50px;
+  height:50px;
+  background-color:red;
+  border-radius:50px;
+  margin-left:50px;
+  margin-top:2rem;
+}
